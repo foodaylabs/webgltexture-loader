@@ -1,5 +1,5 @@
 {
-  "name": "webgltexture-loader-expo",
+  "name": "@fooday/webgltexture-loader-expo",
   "version": "2.0.0",
   "description": "load basic expo 'config' object for webgltexture-loader",
   "main": "lib/index.js",
